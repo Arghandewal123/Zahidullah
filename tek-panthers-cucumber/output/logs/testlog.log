@@ -1,0 +1,1143 @@
+2022-10-31 20:22:37,658 - logger_file -INFO - React App is equal to React App
+2022-10-31 20:22:37,711 - logger_file -INFO - logo is present
+2022-10-31 20:28:18,696 - logger_file -INFO - React App is equal to React App
+2022-10-31 20:28:18,772 - logger_file -INFO - logo is present
+2022-10-31 21:23:35,255 - logger_file -INFO - React App is equal to React App
+2022-10-31 21:42:06,988 - logger_file -INFO - React App is equal to React App
+2022-10-31 21:42:07,098 - logger_file -INFO - Electronics was selected from the drop down
+2022-10-31 21:42:07,237 - logger_file -INFO - user entered PlayStation
+2022-10-31 21:42:07,318 - logger_file -INFO - user clicked on search button
+2022-10-31 21:42:07,422 - logger_file -INFO - item is present
+2022-11-01 20:15:01,223 - logger_file -INFO - React App is equal to React App
+2022-11-01 20:15:01,350 - logger_file -INFO - user clicked on All element
+2022-11-01 20:29:07,338 - logger_file -INFO - React App is equal to React App
+2022-11-01 20:29:07,555 - logger_file -INFO - user clicked on All element
+2022-11-01 20:30:36,688 - logger_file -INFO - React App is equal to React App
+2022-11-01 20:30:36,844 - logger_file -INFO - user clicked on All element
+2022-11-01 20:30:36,901 - logger_file -INFO - Shop By department is present
+2022-11-01 21:33:41,104 - logger_file -INFO - React App is equal to React App
+2022-11-01 21:33:41,169 - logger_file -INFO - cart icon is present
+2022-11-01 21:36:58,591 - logger_file -INFO - React App is equal to React App
+2022-11-01 21:36:58,686 - logger_file -INFO - logo is present
+2022-11-01 21:37:01,006 - logger_file -INFO - React App is equal to React App
+2022-11-01 21:37:01,118 - logger_file -INFO - user clicked on All element
+2022-11-01 21:37:01,191 - logger_file -INFO - Shop By department is present
+2022-11-01 21:38:28,331 - logger_file -INFO - React App is equal to React App
+2022-11-01 21:38:28,372 - logger_file -INFO - logo is present
+2022-11-01 21:38:30,314 - logger_file -INFO - React App is equal to React App
+2022-11-01 21:38:30,404 - logger_file -INFO - Electronics was selected from the drop down
+2022-11-01 21:38:30,505 - logger_file -INFO - user entered PlayStation
+2022-11-01 21:38:30,586 - logger_file -INFO - user clicked on search button
+2022-11-01 21:38:30,665 - logger_file -INFO - item is present
+2022-11-01 21:38:32,825 - logger_file -INFO - React App is equal to React App
+2022-11-01 21:38:32,927 - logger_file -INFO - user clicked on All element
+2022-11-01 21:38:32,980 - logger_file -INFO - Shop By department is present
+2022-11-01 21:38:34,797 - logger_file -INFO - React App is equal to React App
+2022-11-01 21:38:34,955 - logger_file -INFO - cart icon is present
+2022-11-01 21:42:35,433 - logger_file -INFO - React App is equal to React App
+2022-11-01 21:43:50,495 - logger_file -INFO - React App is equal to React App
+2022-11-01 21:43:50,543 - logger_file -INFO - cart icon is present
+2022-11-01 21:46:16,698 - logger_file -INFO - React App is equal to React App
+2022-11-01 21:46:16,787 - logger_file -INFO - cart icon is present
+2022-11-01 21:48:13,458 - logger_file -INFO - React App is equal to React App
+2022-11-01 21:48:13,552 - logger_file -INFO - cart icon is present
+2022-11-01 21:50:13,872 - logger_file -INFO - React App is equal to React App
+2022-11-01 21:50:19,032 - logger_file -INFO - cart icon is present
+2022-11-01 21:50:50,533 - logger_file -INFO - React App is equal to React App
+2022-11-01 21:51:00,631 - logger_file -INFO - cart icon is present
+2022-11-01 21:54:15,626 - logger_file -INFO - React App is equal to React App
+2022-11-01 21:54:15,730 - logger_file -INFO - Electronics was selected from the drop down
+2022-11-01 21:54:15,831 - logger_file -INFO - user entered PlayStation
+2022-11-01 21:54:15,915 - logger_file -INFO - user clicked on search button
+2022-11-01 21:54:16,010 - logger_file -INFO - item is present
+2022-11-02 21:18:45,528 - logger_file -INFO - React App is equal to React App
+2022-11-02 21:18:45,683 - logger_file -INFO - user clicked on Sign In option
+2022-11-02 21:18:45,830 - logger_file -INFO - user entered email ihateteacher@tek.com and password Tek@12345
+2022-11-02 21:20:46,074 - logger_file -INFO - React App is equal to React App
+2022-11-02 21:20:46,199 - logger_file -INFO - user clicked on Sign In option
+2022-11-02 21:20:46,344 - logger_file -INFO - user entered email ihateteacher@tek.com and password Tek@12345
+2022-11-02 21:22:40,266 - logger_file -INFO - React App is equal to React App
+2022-11-02 21:22:40,387 - logger_file -INFO - user clicked on Sign In option
+2022-11-02 21:22:40,610 - logger_file -INFO - user entered email ihateteacher@tek.com and password Tek@12345
+2022-11-02 21:22:40,690 - logger_file -INFO - user clicked on login button
+2022-11-02 21:22:40,897 - logger_file -INFO - user logged in into account
+2022-11-02 21:27:41,259 - logger_file -INFO - React App is equal to React App
+2022-11-02 21:41:36,773 - logger_file -INFO - React App is equal to React App
+2022-11-02 21:41:36,911 - logger_file -INFO - user clicked on Sign In option
+2022-11-02 21:41:38,894 - logger_file -INFO - React App is equal to React App
+2022-11-02 21:41:39,055 - logger_file -INFO - user clicked on Sign In option
+2022-11-02 21:41:40,916 - logger_file -INFO - React App is equal to React App
+2022-11-02 21:41:41,022 - logger_file -INFO - user clicked on Sign In option
+2022-11-02 21:42:35,211 - logger_file -INFO - React App is equal to React App
+2022-11-02 21:42:35,407 - logger_file -INFO - user clicked on Sign In option
+2022-11-02 21:42:35,678 - logger_file -INFO - user entered email ihateteacher@tek.com and password Tek@12345
+2022-11-02 21:42:35,765 - logger_file -INFO - user clicked on login button
+2022-11-02 21:42:35,962 - logger_file -INFO - user logged in into account
+2022-11-02 21:42:42,990 - logger_file -INFO - React App is equal to React App
+2022-11-02 21:42:43,113 - logger_file -INFO - user clicked on Sign In option
+2022-11-02 21:42:45,032 - logger_file -INFO - React App is equal to React App
+2022-11-02 21:42:45,232 - logger_file -INFO - user clicked on Sign In option
+2022-11-02 21:42:47,140 - logger_file -INFO - React App is equal to React App
+2022-11-02 21:42:47,270 - logger_file -INFO - user clicked on Sign In option
+2022-11-02 21:44:42,036 - logger_file -INFO - React App is equal to React App
+2022-11-02 21:44:42,167 - logger_file -INFO - user clicked on Sign In option
+2022-11-02 21:44:42,379 - logger_file -INFO - user entered email ihateteacher@tek.com and password Tek@12345
+2022-11-02 21:44:42,472 - logger_file -INFO - user clicked on login button
+2022-11-02 21:44:42,683 - logger_file -INFO - user logged in into account
+2022-11-02 21:44:49,887 - logger_file -INFO - React App is equal to React App
+2022-11-02 21:44:50,018 - logger_file -INFO - user clicked on Sign In option
+2022-11-02 21:44:50,305 - logger_file -INFO - user entered email panthers1@tekschool.us and password Tek@12345
+2022-11-02 21:44:50,397 - logger_file -INFO - user clicked on login button
+2022-11-02 21:44:50,617 - logger_file -INFO - user logged in into account
+2022-11-02 21:44:57,788 - logger_file -INFO - React App is equal to React App
+2022-11-02 21:44:57,940 - logger_file -INFO - user clicked on Sign In option
+2022-11-02 21:44:58,151 - logger_file -INFO - user entered email panthers@tekschool.us and password Tek@12345
+2022-11-02 21:44:58,226 - logger_file -INFO - user clicked on login button
+2022-11-02 21:44:58,441 - logger_file -INFO - user logged in into account
+2022-11-02 21:50:31,033 - logger_file -INFO - React App is equal to React App
+2022-11-02 21:50:31,176 - logger_file -INFO - user clicked on Sign In option
+2022-11-02 21:50:31,377 - logger_file -INFO - user entered email ihateteacher@tek.com and password Tek@12345
+2022-11-02 21:50:31,452 - logger_file -INFO - user clicked on login button
+2022-11-02 21:50:31,661 - logger_file -INFO - user logged in into account
+2022-11-02 21:50:38,545 - logger_file -INFO - React App is equal to React App
+2022-11-02 21:50:38,654 - logger_file -INFO - user clicked on Sign In option
+2022-11-02 21:50:38,859 - logger_file -INFO - user entered email panthers1@tekschool.us and password Tek@12345
+2022-11-02 21:50:38,930 - logger_file -INFO - user clicked on login button
+2022-11-02 21:50:39,146 - logger_file -INFO - user logged in into account
+2022-11-02 21:50:46,085 - logger_file -INFO - React App is equal to React App
+2022-11-02 21:50:46,225 - logger_file -INFO - user clicked on Sign In option
+2022-11-02 21:50:46,494 - logger_file -INFO - user entered email panthers2@tekschool.us and password Tek@12345
+2022-11-02 21:50:46,589 - logger_file -INFO - user clicked on login button
+2022-11-02 21:50:46,760 - logger_file -INFO - user logged in into account
+2022-11-02 21:53:00,823 - logger_file -INFO - React App is equal to React App
+2022-11-02 21:53:01,085 - logger_file -INFO - user clicked on Sign In option
+2022-11-02 21:53:01,293 - logger_file -INFO - user entered email ihateteacher@tek.com and password Tek@12345
+2022-11-02 21:53:01,363 - logger_file -INFO - user clicked on login button
+2022-11-02 21:53:01,531 - logger_file -INFO - user logged in into account
+2022-11-02 21:53:08,697 - logger_file -INFO - React App is equal to React App
+2022-11-02 21:53:08,840 - logger_file -INFO - user clicked on Sign In option
+2022-11-02 21:53:09,052 - logger_file -INFO - user entered email panthers1@tekschool.us and password Tek@12345
+2022-11-02 21:53:09,121 - logger_file -INFO - user clicked on login button
+2022-11-02 21:53:09,342 - logger_file -INFO - user logged in into account
+2022-11-02 21:53:16,154 - logger_file -INFO - React App is equal to React App
+2022-11-02 21:53:16,279 - logger_file -INFO - user clicked on Sign In option
+2022-11-02 21:53:16,491 - logger_file -INFO - user entered email panthers2@tekschool.us and password Tek@12345
+2022-11-02 21:53:16,560 - logger_file -INFO - user clicked on login button
+2022-11-02 21:53:16,776 - logger_file -INFO - user logged in into account
+2022-11-03 21:15:39,341 - logger_file -INFO - React App is equal to React App
+2022-11-03 21:15:39,481 - logger_file -INFO - user clicked on Sign In option
+2022-11-03 21:15:39,609 - logger_file -INFO - user clicked on Create New Account button
+2022-11-03 21:15:40,005 - logger_file -INFO - user entered required information into sign up form
+2022-11-03 21:15:45,085 - logger_file -INFO - user clicked on Sign up Button
+2022-11-03 21:15:45,450 - logger_file -INFO - Account was created
+2022-11-03 21:25:20,620 - logger_file -INFO - React App is equal to React App
+2022-11-03 21:25:20,749 - logger_file -INFO - user clicked on Sign In option
+2022-11-03 21:25:20,838 - logger_file -INFO - user clicked on Create New Account button
+2022-11-03 21:25:21,222 - logger_file -INFO - user entered required information into sign up form
+2022-11-03 21:26:03,876 - logger_file -INFO - React App is equal to React App
+2022-11-03 21:26:04,084 - logger_file -INFO - user clicked on Sign In option
+2022-11-03 21:26:04,182 - logger_file -INFO - user clicked on Create New Account button
+2022-11-03 21:26:04,561 - logger_file -INFO - user entered required information into sign up form
+2022-11-03 21:26:39,238 - logger_file -INFO - React App is equal to React App
+2022-11-03 21:26:39,441 - logger_file -INFO - user clicked on Sign In option
+2022-11-03 21:26:39,663 - logger_file -INFO - user entered email ihateteacher@tek.com and password Tek@12345
+2022-11-03 21:26:39,735 - logger_file -INFO - user clicked on login button
+2022-11-03 21:26:39,948 - logger_file -INFO - user logged in into account
+2022-11-03 21:26:46,792 - logger_file -INFO - React App is equal to React App
+2022-11-03 21:26:46,899 - logger_file -INFO - user clicked on Sign In option
+2022-11-03 21:26:47,100 - logger_file -INFO - user entered email ihateteacher@tek.com and password Tek@12345
+2022-11-03 21:26:47,167 - logger_file -INFO - user clicked on login button
+2022-11-03 21:26:47,373 - logger_file -INFO - user logged in into account
+2022-11-03 21:26:54,262 - logger_file -INFO - React App is equal to React App
+2022-11-03 21:26:54,370 - logger_file -INFO - user clicked on Sign In option
+2022-11-03 21:26:54,573 - logger_file -INFO - user entered email panthers1@tekschool.us and password Tek@12345
+2022-11-03 21:26:54,639 - logger_file -INFO - user clicked on login button
+2022-11-03 21:26:54,858 - logger_file -INFO - user logged in into account
+2022-11-03 21:27:01,685 - logger_file -INFO - React App is equal to React App
+2022-11-03 21:27:01,843 - logger_file -INFO - user clicked on Sign In option
+2022-11-03 21:27:02,046 - logger_file -INFO - user entered email panthers2@tekschool.us and password Tek@12345
+2022-11-03 21:27:02,111 - logger_file -INFO - user clicked on login button
+2022-11-03 21:27:02,320 - logger_file -INFO - user logged in into account
+2022-11-03 21:27:20,055 - logger_file -INFO - React App is equal to React App
+2022-11-03 21:27:20,193 - logger_file -INFO - user clicked on Sign In option
+2022-11-03 21:27:20,302 - logger_file -INFO - user clicked on Create New Account button
+2022-11-03 21:28:46,142 - logger_file -INFO - React App is equal to React App
+2022-11-03 21:28:46,272 - logger_file -INFO - user clicked on Sign In option
+2022-11-03 21:28:46,364 - logger_file -INFO - user clicked on Create New Account button
+2022-11-03 21:28:46,737 - logger_file -INFO - user entered required information into sign up form
+2022-11-03 21:36:08,402 - logger_file -INFO - React App is equal to React App
+2022-11-03 21:36:08,523 - logger_file -INFO - user clicked on Sign In option
+2022-11-03 21:36:08,617 - logger_file -INFO - user clicked on Create New Account button
+2022-11-03 21:36:09,010 - logger_file -INFO - user entered required information into sign up form
+2022-11-03 21:37:47,205 - logger_file -INFO - React App is equal to React App
+2022-11-03 21:37:47,318 - logger_file -INFO - user clicked on Sign In option
+2022-11-03 21:37:47,434 - logger_file -INFO - user clicked on Create New Account button
+2022-11-03 21:37:47,837 - logger_file -INFO - user entered required information into sign up form
+2022-11-03 21:44:10,050 - logger_file -INFO - React App is equal to React App
+2022-11-03 21:44:10,186 - logger_file -INFO - user clicked on Sign In option
+2022-11-03 21:44:10,298 - logger_file -INFO - user clicked on Create New Account button
+2022-11-03 21:44:10,730 - logger_file -INFO - user entered required information into sign up form
+2022-11-03 21:44:46,892 - logger_file -INFO - React App is equal to React App
+2022-11-03 21:44:47,001 - logger_file -INFO - user clicked on Sign In option
+2022-11-03 21:44:47,106 - logger_file -INFO - user clicked on Create New Account button
+2022-11-03 21:44:47,469 - logger_file -INFO - user entered required information into sign up form
+2022-11-03 21:45:42,538 - logger_file -INFO - React App is equal to React App
+2022-11-03 21:45:42,678 - logger_file -INFO - user clicked on Sign In option
+2022-11-03 21:45:42,761 - logger_file -INFO - user clicked on Create New Account button
+2022-11-03 21:45:43,155 - logger_file -INFO - user entered required information into sign up form
+2022-11-03 21:45:48,238 - logger_file -INFO - user clicked on Sign up Button
+2022-11-03 21:47:10,499 - logger_file -INFO - React App is equal to React App
+2022-11-03 21:47:10,649 - logger_file -INFO - user clicked on Sign In option
+2022-11-03 21:47:10,751 - logger_file -INFO - user clicked on Create New Account button
+2022-11-03 21:47:11,153 - logger_file -INFO - user entered required information into sign up form
+2022-11-03 21:47:16,249 - logger_file -INFO - user clicked on Sign up Button
+2022-11-03 21:55:09,258 - logger_file -INFO - React App is equal to React App
+2022-11-03 21:55:09,378 - logger_file -INFO - user clicked on Sign In option
+2022-11-03 21:55:09,470 - logger_file -INFO - user clicked on Create New Account button
+2022-11-03 21:55:09,872 - logger_file -INFO - user entered required information into sign up form
+2022-11-03 21:55:14,958 - logger_file -INFO - user clicked on Sign up Button
+2022-11-03 21:55:37,255 - logger_file -INFO - React App is equal to React App
+2022-11-03 21:55:37,370 - logger_file -INFO - user clicked on Sign In option
+2022-11-03 21:55:37,456 - logger_file -INFO - user clicked on Create New Account button
+2022-11-03 21:55:37,867 - logger_file -INFO - user entered required information into sign up form
+2022-11-03 21:55:42,950 - logger_file -INFO - user clicked on Sign up Button
+2022-11-03 21:55:43,216 - logger_file -INFO - Account was created
+2022-11-03 21:55:50,176 - logger_file -INFO - React App is equal to React App
+2022-11-03 21:55:50,319 - logger_file -INFO - user clicked on Sign In option
+2022-11-03 21:55:50,431 - logger_file -INFO - user clicked on Create New Account button
+2022-11-03 21:55:50,905 - logger_file -INFO - user entered required information into sign up form
+2022-11-03 21:55:55,992 - logger_file -INFO - user clicked on Sign up Button
+2022-11-03 21:55:56,271 - logger_file -INFO - Account was created
+2022-11-03 21:56:03,186 - logger_file -INFO - React App is equal to React App
+2022-11-03 21:56:03,273 - logger_file -INFO - user clicked on Sign In option
+2022-11-03 21:56:03,359 - logger_file -INFO - user clicked on Create New Account button
+2022-11-03 21:56:03,753 - logger_file -INFO - user entered required information into sign up form
+2022-11-03 21:56:08,843 - logger_file -INFO - user clicked on Sign up Button
+2022-11-03 21:56:09,139 - logger_file -INFO - Account was created
+2022-11-03 21:56:16,107 - logger_file -INFO - React App is equal to React App
+2022-11-03 21:56:16,262 - logger_file -INFO - user clicked on Sign In option
+2022-11-03 21:56:16,345 - logger_file -INFO - user clicked on Create New Account button
+2022-11-03 21:56:16,714 - logger_file -INFO - user entered required information into sign up form
+2022-11-03 21:56:21,784 - logger_file -INFO - user clicked on Sign up Button
+2022-11-03 21:56:22,071 - logger_file -INFO - Account was created
+2022-12-20 21:59:56,854 - logger_file -INFO - React App is equal to React App
+2022-12-20 21:59:57,016 - logger_file -INFO - logo is present
+2022-12-20 22:00:00,124 - logger_file -INFO - React App is equal to React App
+2022-12-20 22:00:00,647 - logger_file -INFO - user clicked on Sign In option
+2022-12-20 22:00:01,148 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul1234!
+2022-12-20 22:00:01,301 - logger_file -INFO - user clicked on login button
+2022-12-20 22:00:01,554 - logger_file -INFO - user logged in into account
+2022-12-20 22:13:35,153 - logger_file -INFO - React App is equal to React App
+2022-12-20 22:13:35,328 - logger_file -INFO - user clicked on Sign In option
+2022-12-20 22:13:35,335 - logger_file -INFO - React App is equal to React App
+2022-12-20 22:24:02,946 - logger_file -INFO - React App is equal to React App
+2022-12-20 22:24:03,653 - logger_file -INFO - user clicked on Sign In option
+2022-12-20 22:24:03,672 - logger_file -INFO - React App is equal to React App
+2022-12-20 22:30:36,850 - logger_file -INFO - React App is equal to React App
+2022-12-20 22:30:37,062 - logger_file -INFO - user clicked on Sign In option
+2022-12-20 22:30:37,185 - logger_file -INFO - user clicked on Create New Account button
+2022-12-20 22:30:37,762 - logger_file -INFO - user entered required information into sign up form
+2022-12-20 22:30:42,852 - logger_file -INFO - user clicked on Sign up Button
+2022-12-20 22:31:06,048 - logger_file -INFO - React App is equal to React App
+2022-12-20 22:31:06,321 - logger_file -INFO - user clicked on Sign In option
+2022-12-20 22:31:06,466 - logger_file -INFO - user clicked on Create New Account button
+2022-12-20 22:31:07,173 - logger_file -INFO - user entered required information into sign up form
+2022-12-20 22:31:12,331 - logger_file -INFO - user clicked on Sign up Button
+2022-12-20 22:31:35,393 - logger_file -INFO - React App is equal to React App
+2022-12-20 22:31:35,577 - logger_file -INFO - user clicked on Sign In option
+2022-12-20 22:31:35,937 - logger_file -INFO - user clicked on Create New Account button
+2022-12-20 22:31:36,823 - logger_file -INFO - user entered required information into sign up form
+2022-12-20 22:31:41,973 - logger_file -INFO - user clicked on Sign up Button
+2022-12-20 22:31:50,056 - logger_file -INFO - React App is equal to React App
+2022-12-20 22:31:50,269 - logger_file -INFO - user clicked on Sign In option
+2022-12-20 22:31:50,383 - logger_file -INFO - user clicked on Create New Account button
+2022-12-20 22:31:51,189 - logger_file -INFO - user entered required information into sign up form
+2022-12-20 22:33:39,080 - logger_file -INFO - React App is equal to React App
+2022-12-20 22:33:39,404 - logger_file -INFO - user clicked on Sign In option
+2022-12-20 22:33:39,574 - logger_file -INFO - user clicked on Create New Account button
+2022-12-20 22:33:40,405 - logger_file -INFO - user entered required information into sign up form
+2022-12-20 22:33:45,517 - logger_file -INFO - user clicked on Sign up Button
+2022-12-20 22:34:08,462 - logger_file -INFO - React App is equal to React App
+2022-12-20 22:34:08,728 - logger_file -INFO - user clicked on Sign In option
+2022-12-20 22:34:08,851 - logger_file -INFO - user clicked on Create New Account button
+2022-12-20 22:34:09,448 - logger_file -INFO - user entered required information into sign up form
+2022-12-20 22:34:14,538 - logger_file -INFO - user clicked on Sign up Button
+2022-12-20 22:34:14,795 - logger_file -INFO - Account was created
+2022-12-20 22:34:22,748 - logger_file -INFO - React App is equal to React App
+2022-12-20 22:34:23,121 - logger_file -INFO - user clicked on Sign In option
+2022-12-20 22:34:23,336 - logger_file -INFO - user clicked on Create New Account button
+2022-12-20 22:34:24,241 - logger_file -INFO - user entered required information into sign up form
+2022-12-20 22:34:29,403 - logger_file -INFO - user clicked on Sign up Button
+2022-12-20 22:34:29,774 - logger_file -INFO - Account was created
+2022-12-20 22:34:37,720 - logger_file -INFO - React App is equal to React App
+2022-12-20 22:34:37,993 - logger_file -INFO - user clicked on Sign In option
+2022-12-20 22:34:38,149 - logger_file -INFO - user clicked on Create New Account button
+2022-12-20 22:34:38,952 - logger_file -INFO - user entered required information into sign up form
+2022-12-20 22:34:44,089 - logger_file -INFO - user clicked on Sign up Button
+2022-12-20 22:34:44,434 - logger_file -INFO - Account was created
+2022-12-20 22:34:52,621 - logger_file -INFO - React App is equal to React App
+2022-12-20 22:34:53,108 - logger_file -INFO - user clicked on Sign In option
+2022-12-20 22:34:53,294 - logger_file -INFO - user clicked on Create New Account button
+2022-12-20 22:34:54,169 - logger_file -INFO - user entered required information into sign up form
+2022-12-20 22:34:59,335 - logger_file -INFO - user clicked on Sign up Button
+2022-12-20 22:34:59,653 - logger_file -INFO - Account was created
+2022-12-20 22:37:11,589 - logger_file -INFO - React App is equal to React App
+2022-12-20 22:37:11,814 - logger_file -INFO - user clicked on Sign In option
+2022-12-20 22:37:11,958 - logger_file -INFO - user clicked on Create New Account button
+2022-12-20 22:37:12,532 - logger_file -INFO - user entered required information into sign up form
+2022-12-20 22:37:17,640 - logger_file -INFO - user clicked on Sign up Button
+2022-12-20 22:42:37,544 - logger_file -INFO - React App is equal to React App
+2022-12-20 22:42:37,793 - logger_file -INFO - user clicked on Sign In option
+2022-12-20 23:23:01,225 - logger_file -INFO - React App is equal to React App
+2022-12-20 23:23:01,472 - logger_file -INFO - user clicked on Sign In option
+2022-12-20 23:33:12,232 - logger_file -INFO - React App is equal to React App
+2022-12-20 23:33:12,443 - logger_file -INFO - user clicked on Sign In option
+2022-12-20 23:34:46,930 - logger_file -INFO - React App is equal to React App
+2022-12-20 23:34:47,195 - logger_file -INFO - user clicked on Sign In option
+2022-12-20 23:37:05,287 - logger_file -INFO - React App is equal to React App
+2022-12-20 23:37:05,577 - logger_file -INFO - user clicked on Sign In option
+2022-12-20 23:37:05,899 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul1234!
+2022-12-20 23:37:05,995 - logger_file -INFO - user clicked on login button
+2022-12-20 23:37:06,202 - logger_file -INFO - user logged in into account
+2022-12-20 23:37:11,332 - logger_file -INFO - User click on account option
+2022-12-20 23:39:41,176 - logger_file -INFO - React App is equal to React App
+2022-12-20 23:39:41,458 - logger_file -INFO - user clicked on Sign In option
+2022-12-20 23:39:41,770 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul1234!
+2022-12-20 23:39:41,863 - logger_file -INFO - user clicked on login button
+2022-12-20 23:39:42,069 - logger_file -INFO - user logged in into account
+2022-12-20 23:39:47,194 - logger_file -INFO - User click on account option
+2022-12-20 23:39:47,578 - logger_file -INFO - User update phone and name
+2022-12-20 23:39:47,685 - logger_file -INFO - User click on updat butten
+2022-12-20 23:39:47,686 - logger_file -INFO - User name and phone should be update
+2022-12-20 23:55:15,331 - logger_file -INFO - React App is equal to React App
+2022-12-20 23:55:15,578 - logger_file -INFO - user clicked on Sign In option
+2022-12-20 23:55:15,868 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul1234!
+2022-12-20 23:55:15,967 - logger_file -INFO - user clicked on login button
+2022-12-20 23:55:16,182 - logger_file -INFO - user logged in into account
+2022-12-20 23:55:20,289 - logger_file -INFO - User click on account option
+2022-12-20 23:55:24,643 - logger_file -INFO - User update phone and name
+2022-12-20 23:55:28,751 - logger_file -INFO - User click on updat butten
+2022-12-20 23:55:28,751 - logger_file -INFO - User name and phone should be update
+2022-12-20 23:59:09,438 - logger_file -INFO - React App is equal to React App
+2022-12-20 23:59:09,703 - logger_file -INFO - user clicked on Sign In option
+2022-12-20 23:59:10,060 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul1234!
+2022-12-20 23:59:10,160 - logger_file -INFO - user clicked on login button
+2022-12-20 23:59:10,384 - logger_file -INFO - user logged in into account
+2022-12-20 23:59:14,517 - logger_file -INFO - User click on account option
+2022-12-20 23:59:18,862 - logger_file -INFO - User update phone and name
+2022-12-20 23:59:22,973 - logger_file -INFO - User click on updat butten
+2022-12-20 23:59:22,973 - logger_file -INFO - User name and phone should be update
+2022-12-21 00:29:35,488 - logger_file -INFO - React App is equal to React App
+2022-12-21 00:29:35,688 - logger_file -INFO - user clicked on Sign In option
+2022-12-21 00:29:36,009 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul1234!
+2022-12-21 00:29:36,099 - logger_file -INFO - user clicked on login button
+2022-12-21 00:29:36,320 - logger_file -INFO - user logged in into account
+2022-12-21 00:29:40,464 - logger_file -INFO - User click on account option
+2022-12-21 01:20:56,860 - logger_file -INFO - React App is equal to React App
+2022-12-21 01:20:57,078 - logger_file -INFO - user clicked on Sign In option
+2022-12-21 01:20:57,445 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul!1234
+2022-12-21 01:20:57,550 - logger_file -INFO - user clicked on login button
+2022-12-21 01:20:57,729 - logger_file -INFO - user logged in into account
+2022-12-21 01:21:01,836 - logger_file -INFO - User click on account option
+2022-12-21 01:21:02,103 - logger_file -INFO - User change password
+2022-12-21 01:21:02,169 - logger_file -INFO - User click on Update Button
+2022-12-21 01:23:27,736 - logger_file -INFO - React App is equal to React App
+2022-12-21 01:23:28,010 - logger_file -INFO - user clicked on Sign In option
+2022-12-21 01:23:28,382 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul12345!
+2022-12-21 01:23:28,486 - logger_file -INFO - user clicked on login button
+2022-12-21 01:23:28,690 - logger_file -INFO - user logged in into account
+2022-12-21 01:23:32,789 - logger_file -INFO - User click on account option
+2022-12-21 01:23:33,080 - logger_file -INFO - User change password
+2022-12-21 01:23:33,165 - logger_file -INFO - User click on Update Button
+2022-12-21 01:31:08,107 - logger_file -INFO - React App is equal to React App
+2022-12-21 01:31:08,348 - logger_file -INFO - user clicked on Sign In option
+2022-12-21 01:31:08,675 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2345!
+2022-12-21 01:31:08,773 - logger_file -INFO - user clicked on login button
+2022-12-21 01:31:09,055 - logger_file -INFO - user logged in into account
+2022-12-21 01:31:13,163 - logger_file -INFO - User click on account option
+2022-12-21 01:31:13,443 - logger_file -INFO - User change password
+2022-12-21 01:31:13,524 - logger_file -INFO - User click on Update Button
+2022-12-21 01:33:35,639 - logger_file -INFO - React App is equal to React App
+2022-12-21 01:33:35,875 - logger_file -INFO - user clicked on Sign In option
+2022-12-21 01:33:36,218 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-21 01:33:36,331 - logger_file -INFO - user clicked on login button
+2022-12-21 01:33:36,544 - logger_file -INFO - user logged in into account
+2022-12-21 01:33:40,661 - logger_file -INFO - User click on account option
+2022-12-21 01:33:40,949 - logger_file -INFO - User change password
+2022-12-21 01:33:41,014 - logger_file -INFO - User click on Update Button
+2022-12-21 01:36:12,396 - logger_file -INFO - React App is equal to React App
+2022-12-21 01:36:12,674 - logger_file -INFO - user clicked on Sign In option
+2022-12-21 01:36:13,000 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2345!
+2022-12-21 01:36:13,095 - logger_file -INFO - user clicked on login button
+2022-12-21 01:36:13,310 - logger_file -INFO - user logged in into account
+2022-12-21 01:36:17,420 - logger_file -INFO - User click on account option
+2022-12-21 01:36:17,721 - logger_file -INFO - User change password
+2022-12-21 01:36:17,790 - logger_file -INFO - User click on Update Button
+2022-12-21 01:36:25,835 - logger_file -INFO - User password upadted
+2022-12-21 11:53:46,869 - logger_file -INFO - React App is equal to React App
+2022-12-21 11:53:47,076 - logger_file -INFO - user clicked on Sign In option
+2022-12-21 11:53:47,322 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2345!
+2022-12-21 11:53:47,400 - logger_file -INFO - user clicked on login button
+2022-12-21 11:57:14,103 - logger_file -INFO - React App is equal to React App
+2022-12-21 11:57:14,300 - logger_file -INFO - user clicked on Sign In option
+2022-12-21 11:57:14,544 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2345!
+2022-12-21 11:57:14,633 - logger_file -INFO - user clicked on login button
+2022-12-21 12:02:58,896 - logger_file -INFO - React App is equal to React App
+2022-12-21 12:02:59,047 - logger_file -INFO - user clicked on Sign In option
+2022-12-21 12:02:59,294 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2345!
+2022-12-21 12:02:59,367 - logger_file -INFO - user clicked on login button
+2022-12-21 12:05:14,157 - logger_file -INFO - React App is equal to React App
+2022-12-21 12:05:14,358 - logger_file -INFO - user clicked on Sign In option
+2022-12-21 12:05:14,593 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2345!
+2022-12-21 12:05:14,671 - logger_file -INFO - user clicked on login button
+2022-12-21 12:08:27,643 - logger_file -INFO - React App is equal to React App
+2022-12-21 12:08:27,835 - logger_file -INFO - user clicked on Sign In option
+2022-12-21 12:08:28,080 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2345!
+2022-12-21 12:08:28,170 - logger_file -INFO - user clicked on login button
+2022-12-21 12:13:18,443 - logger_file -INFO - React App is equal to React App
+2022-12-21 12:13:18,621 - logger_file -INFO - user clicked on Sign In option
+2022-12-21 12:13:18,860 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2345!
+2022-12-21 12:13:18,943 - logger_file -INFO - user clicked on login button
+2022-12-21 12:35:38,936 - logger_file -INFO - React App is equal to React App
+2022-12-21 12:35:39,159 - logger_file -INFO - user clicked on Sign In option
+2022-12-21 12:35:39,403 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346
+2022-12-21 12:35:39,484 - logger_file -INFO - user clicked on login button
+2022-12-21 12:43:26,811 - logger_file -INFO - React App is equal to React App
+2022-12-21 12:43:27,003 - logger_file -INFO - user clicked on Sign In option
+2022-12-21 12:43:27,241 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346
+2022-12-21 12:43:27,326 - logger_file -INFO - user clicked on login button
+2022-12-21 12:45:43,455 - logger_file -INFO - React App is equal to React App
+2022-12-21 12:45:43,704 - logger_file -INFO - user clicked on Sign In option
+2022-12-21 12:45:43,932 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346
+2022-12-21 12:45:44,008 - logger_file -INFO - user clicked on login button
+2022-12-26 21:17:45,675 - logger_file -INFO - React App is equal to React App
+2022-12-26 21:17:45,981 - logger_file -INFO - user clicked on Sign In option
+2022-12-26 21:17:46,334 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul23456!
+2022-12-26 21:17:46,442 - logger_file -INFO - user clicked on login button
+2022-12-26 21:19:15,050 - logger_file -INFO - React App is equal to React App
+2022-12-26 21:19:15,370 - logger_file -INFO - user clicked on Sign In option
+2022-12-26 21:19:15,699 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-26 21:19:15,812 - logger_file -INFO - user clicked on login button
+2022-12-26 21:19:16,027 - logger_file -INFO - user logged in into account
+2022-12-26 21:19:20,154 - logger_file -INFO - User click on account option
+2022-12-26 21:20:00,269 - logger_file -INFO - React App is equal to React App
+2022-12-26 21:20:00,480 - logger_file -INFO - user clicked on Sign In option
+2022-12-26 21:20:00,848 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-26 21:20:00,964 - logger_file -INFO - user clicked on login button
+2022-12-26 21:20:01,247 - logger_file -INFO - user logged in into account
+2022-12-26 21:20:05,362 - logger_file -INFO - User click on account option
+2022-12-26 22:27:24,130 - logger_file -INFO - React App is equal to React App
+2022-12-26 22:27:24,418 - logger_file -INFO - user clicked on Sign In option
+2022-12-26 22:27:24,711 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-26 22:27:24,808 - logger_file -INFO - user clicked on login button
+2022-12-26 22:27:25,021 - logger_file -INFO - user logged in into account
+2022-12-26 22:27:29,135 - logger_file -INFO - User click on account option
+2022-12-26 22:27:29,213 - logger_file -INFO - User click on add payment methode
+2022-12-26 22:27:29,592 - logger_file -INFO - User add card information
+2022-12-26 22:27:33,708 - logger_file -INFO - User click on submit button
+2022-12-26 22:27:37,749 - logger_file -INFO - User added the card Sucessfully
+2022-12-26 22:29:48,252 - logger_file -INFO - React App is equal to React App
+2022-12-26 22:29:48,499 - logger_file -INFO - user clicked on Sign In option
+2022-12-26 22:29:48,831 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-26 22:29:48,926 - logger_file -INFO - user clicked on login button
+2022-12-26 22:29:49,228 - logger_file -INFO - user logged in into account
+2022-12-26 22:29:53,347 - logger_file -INFO - User click on account option
+2022-12-26 22:29:53,430 - logger_file -INFO - User click on add payment methode
+2022-12-26 22:29:53,830 - logger_file -INFO - User add card information
+2022-12-26 22:29:57,930 - logger_file -INFO - User click on submit button
+2022-12-26 22:30:01,970 - logger_file -INFO - User added the card Sucessfully
+2022-12-26 22:36:18,322 - logger_file -INFO - React App is equal to React App
+2022-12-26 22:36:18,633 - logger_file -INFO - user clicked on Sign In option
+2022-12-26 22:36:18,957 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-26 22:36:19,061 - logger_file -INFO - user clicked on login button
+2022-12-26 22:36:19,274 - logger_file -INFO - user logged in into account
+2022-12-26 22:36:23,406 - logger_file -INFO - User click on account option
+2022-12-26 22:36:57,584 - logger_file -INFO - React App is equal to React App
+2022-12-26 22:36:57,821 - logger_file -INFO - user clicked on Sign In option
+2022-12-26 22:36:58,157 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-26 22:36:58,259 - logger_file -INFO - user clicked on login button
+2022-12-26 22:36:58,480 - logger_file -INFO - user logged in into account
+2022-12-26 22:37:02,597 - logger_file -INFO - User click on account option
+2022-12-26 22:39:25,892 - logger_file -INFO - React App is equal to React App
+2022-12-26 22:39:26,101 - logger_file -INFO - user clicked on Sign In option
+2022-12-26 22:39:26,437 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-26 22:39:26,537 - logger_file -INFO - user clicked on login button
+2022-12-26 22:39:26,754 - logger_file -INFO - user logged in into account
+2022-12-26 22:39:30,876 - logger_file -INFO - User click on account option
+2022-12-26 23:12:14,079 - logger_file -INFO - React App is equal to React App
+2022-12-26 23:12:14,351 - logger_file -INFO - user clicked on Sign In option
+2022-12-26 23:12:14,692 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-26 23:12:14,794 - logger_file -INFO - user clicked on login button
+2022-12-26 23:12:15,132 - logger_file -INFO - user logged in into account
+2022-12-26 23:12:19,256 - logger_file -INFO - User click on account option
+2022-12-26 23:17:12,575 - logger_file -INFO - React App is equal to React App
+2022-12-26 23:17:12,885 - logger_file -INFO - user clicked on Sign In option
+2022-12-26 23:17:13,235 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-26 23:17:13,344 - logger_file -INFO - user clicked on login button
+2022-12-26 23:17:13,559 - logger_file -INFO - user logged in into account
+2022-12-26 23:17:17,684 - logger_file -INFO - User click on account option
+2022-12-26 23:17:17,876 - logger_file -INFO - User click on edit card button
+2022-12-26 23:17:38,586 - logger_file -INFO - user entered required card information
+2022-12-26 23:17:38,678 - logger_file -INFO - User fill out the new infomation
+2022-12-26 23:21:28,226 - logger_file -INFO - React App is equal to React App
+2022-12-26 23:21:28,415 - logger_file -INFO - user clicked on Sign In option
+2022-12-26 23:21:28,722 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-26 23:21:28,815 - logger_file -INFO - user clicked on login button
+2022-12-26 23:21:29,035 - logger_file -INFO - user logged in into account
+2022-12-26 23:21:33,158 - logger_file -INFO - User click on account option
+2022-12-26 23:23:02,102 - logger_file -INFO - React App is equal to React App
+2022-12-26 23:23:02,323 - logger_file -INFO - user clicked on Sign In option
+2022-12-26 23:23:02,659 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-26 23:23:02,776 - logger_file -INFO - user clicked on login button
+2022-12-26 23:23:02,961 - logger_file -INFO - user logged in into account
+2022-12-26 23:23:07,086 - logger_file -INFO - User click on account option
+2022-12-26 23:23:07,270 - logger_file -INFO - User click on edit card button
+2022-12-26 23:23:27,929 - logger_file -INFO - user entered required card information
+2022-12-26 23:23:28,028 - logger_file -INFO - User fill out the new infomation
+2022-12-26 23:23:32,066 - logger_file -INFO - User Update the card Sucessfully
+2022-12-26 23:28:37,450 - logger_file -INFO - React App is equal to React App
+2022-12-26 23:28:37,762 - logger_file -INFO - user clicked on Sign In option
+2022-12-26 23:28:38,092 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-26 23:28:38,200 - logger_file -INFO - user clicked on login button
+2022-12-26 23:28:38,417 - logger_file -INFO - user logged in into account
+2022-12-26 23:28:42,548 - logger_file -INFO - User click on account option
+2022-12-26 23:34:36,731 - logger_file -INFO - React App is equal to React App
+2022-12-26 23:34:36,952 - logger_file -INFO - user clicked on Sign In option
+2022-12-26 23:34:37,284 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-26 23:34:37,379 - logger_file -INFO - user clicked on login button
+2022-12-26 23:34:37,722 - logger_file -INFO - user logged in into account
+2022-12-26 23:34:41,850 - logger_file -INFO - User click on account option
+2022-12-26 23:34:41,930 - logger_file -INFO - User click on add payment methode
+2022-12-26 23:34:42,344 - logger_file -INFO - User add card information
+2022-12-26 23:34:46,431 - logger_file -INFO - User click on submit button
+2022-12-26 23:34:50,467 - logger_file -INFO - User added the card Sucessfully
+2022-12-26 23:43:42,867 - logger_file -INFO - React App is equal to React App
+2022-12-26 23:43:43,175 - logger_file -INFO - user clicked on Sign In option
+2022-12-26 23:43:43,529 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-26 23:43:43,634 - logger_file -INFO - user clicked on login button
+2022-12-26 23:43:43,841 - logger_file -INFO - user logged in into account
+2022-12-26 23:43:47,960 - logger_file -INFO - User click on account option
+2022-12-26 23:44:54,752 - logger_file -INFO - React App is equal to React App
+2022-12-26 23:44:55,068 - logger_file -INFO - user clicked on Sign In option
+2022-12-26 23:44:55,443 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-26 23:44:55,553 - logger_file -INFO - user clicked on login button
+2022-12-26 23:44:55,828 - logger_file -INFO - user logged in into account
+2022-12-26 23:44:59,951 - logger_file -INFO - User click on account option
+2022-12-26 23:45:08,181 - logger_file -INFO - The card should be removed
+2022-12-26 23:53:46,292 - logger_file -INFO - React App is equal to React App
+2022-12-26 23:55:21,358 - logger_file -INFO - React App is equal to React App
+2022-12-26 23:58:02,019 - logger_file -INFO - React App is equal to React App
+2022-12-26 23:58:02,303 - logger_file -INFO - user clicked on Sign In option
+2022-12-26 23:58:02,657 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-26 23:58:02,754 - logger_file -INFO - user clicked on login button
+2022-12-26 23:58:02,974 - logger_file -INFO - user logged in into account
+2022-12-26 23:58:07,095 - logger_file -INFO - User click on account option
+2022-12-27 01:33:33,132 - logger_file -INFO - React App is equal to React App
+2022-12-27 01:33:33,422 - logger_file -INFO - user clicked on Sign In option
+2022-12-27 01:33:33,738 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-27 01:33:33,837 - logger_file -INFO - user clicked on login button
+2022-12-27 01:33:34,050 - logger_file -INFO - user logged in into account
+2022-12-27 01:33:38,161 - logger_file -INFO - User click on account option
+2022-12-27 01:33:38,273 - logger_file -INFO - User click on address Butten
+2022-12-27 01:37:26,646 - logger_file -INFO - React App is equal to React App
+2022-12-27 01:37:26,860 - logger_file -INFO - user clicked on Sign In option
+2022-12-27 01:37:27,187 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-27 01:37:27,279 - logger_file -INFO - user clicked on login button
+2022-12-27 01:37:27,500 - logger_file -INFO - user logged in into account
+2022-12-27 01:37:31,613 - logger_file -INFO - User click on account option
+2022-12-27 01:37:31,735 - logger_file -INFO - User click on address Butten
+2022-12-27 01:38:04,743 - logger_file -INFO - User fill out the information 
+2022-12-27 01:41:35,194 - logger_file -INFO - React App is equal to React App
+2022-12-27 01:41:35,457 - logger_file -INFO - user clicked on Sign In option
+2022-12-27 01:41:35,762 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-27 01:41:35,868 - logger_file -INFO - user clicked on login button
+2022-12-27 01:41:36,093 - logger_file -INFO - user logged in into account
+2022-12-27 01:41:40,197 - logger_file -INFO - User click on account option
+2022-12-27 01:41:40,310 - logger_file -INFO - User click on address Butten
+2022-12-27 01:42:13,266 - logger_file -INFO - User fill out the information 
+2022-12-27 01:42:13,358 - logger_file -INFO - User fill out the address information
+2022-12-27 01:43:30,251 - logger_file -INFO - React App is equal to React App
+2022-12-27 01:43:30,443 - logger_file -INFO - user clicked on Sign In option
+2022-12-27 01:43:30,726 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-27 01:43:30,825 - logger_file -INFO - user clicked on login button
+2022-12-27 01:43:31,102 - logger_file -INFO - user logged in into account
+2022-12-27 01:43:35,215 - logger_file -INFO - User click on account option
+2022-12-27 01:43:35,313 - logger_file -INFO - User click on address Butten
+2022-12-27 01:44:08,275 - logger_file -INFO - User fill out the information 
+2022-12-27 01:44:08,382 - logger_file -INFO - User fill out the address information
+2022-12-27 01:44:12,417 - logger_file -INFO - User add the address Successfully
+2022-12-27 18:20:03,537 - logger_file -INFO - React App is equal to React App
+2022-12-27 18:20:03,720 - logger_file -INFO - user clicked on Sign In option
+2022-12-27 18:20:03,883 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-27 18:20:03,947 - logger_file -INFO - user clicked on login button
+2022-12-27 18:20:04,218 - logger_file -INFO - user logged in into account
+2022-12-27 18:20:08,326 - logger_file -INFO - User click on account option
+2022-12-28 21:56:11,505 - logger_file -INFO - React App is equal to React App
+2022-12-28 21:56:12,571 - logger_file -INFO - React App is equal to React App
+2022-12-28 21:56:12,963 - logger_file -INFO - user clicked on Sign In option
+2022-12-28 21:56:13,185 - logger_file -INFO - React App is equal to React App
+2022-12-28 21:56:13,510 - logger_file -INFO - user clicked on Sign In option
+2022-12-28 21:56:14,091 - logger_file -INFO - user clicked on Sign In option
+2022-12-28 21:56:14,714 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-28 21:56:15,292 - logger_file -INFO - user clicked on login button
+2022-12-28 21:56:15,598 - logger_file -INFO - user logged in into account
+2022-12-28 21:56:15,732 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-28 21:56:16,013 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-28 21:56:16,193 - logger_file -INFO - user clicked on login button
+2022-12-28 21:56:16,569 - logger_file -INFO - user clicked on login button
+2022-12-28 21:56:16,582 - logger_file -INFO - user logged in into account
+2022-12-28 21:56:16,762 - logger_file -INFO - user logged in into account
+2022-12-28 21:56:20,126 - logger_file -INFO - User click on account option
+2022-12-28 21:56:20,543 - logger_file -INFO - User click on Account Butten
+2022-12-28 21:56:20,994 - logger_file -INFO - User click on account option
+2022-12-28 21:56:21,263 - logger_file -INFO - User click on account option
+2022-12-28 21:56:21,384 - logger_file -INFO - User click on Account Butten
+2022-12-28 21:56:21,613 - logger_file -INFO - User click on Account Butten
+2022-12-28 22:39:35,960 - logger_file -INFO - React App is equal to React App
+2022-12-28 22:39:36,134 - logger_file -INFO - user clicked on Sign In option
+2022-12-28 22:39:36,435 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-28 22:39:36,523 - logger_file -INFO - user clicked on login button
+2022-12-28 22:39:36,731 - logger_file -INFO - user logged in into account
+2022-12-28 22:39:40,884 - logger_file -INFO - User click on account option
+2022-12-28 22:39:40,983 - logger_file -INFO - User click on Account Butten
+2022-12-29 16:28:28,738 - logger_file -INFO - React App is equal to React App
+2022-12-29 16:28:29,021 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 16:28:29,289 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 16:28:29,385 - logger_file -INFO - user clicked on login button
+2022-12-29 16:28:29,601 - logger_file -INFO - user logged in into account
+2022-12-29 16:28:33,724 - logger_file -INFO - User click on account option
+2022-12-29 16:28:33,797 - logger_file -INFO - User click on Account Butten
+2022-12-29 16:30:51,620 - logger_file -INFO - React App is equal to React App
+2022-12-29 16:30:51,871 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 16:30:52,194 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 16:30:52,298 - logger_file -INFO - user clicked on login button
+2022-12-29 16:30:52,512 - logger_file -INFO - user logged in into account
+2022-12-29 16:30:56,640 - logger_file -INFO - User click on account option
+2022-12-29 16:30:56,754 - logger_file -INFO - User click on Account Butten
+2022-12-29 16:31:55,164 - logger_file -INFO - React App is equal to React App
+2022-12-29 16:31:55,359 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 16:31:55,690 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 16:31:55,779 - logger_file -INFO - user clicked on login button
+2022-12-29 16:31:56,441 - logger_file -INFO - user logged in into account
+2022-12-29 16:32:00,573 - logger_file -INFO - User click on account option
+2022-12-29 16:32:00,690 - logger_file -INFO - User click on Account Butten
+2022-12-29 16:33:32,029 - logger_file -INFO - React App is equal to React App
+2022-12-29 16:33:32,305 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 16:33:32,601 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 16:33:32,691 - logger_file -INFO - user clicked on login button
+2022-12-29 16:33:32,894 - logger_file -INFO - user logged in into account
+2022-12-29 16:33:37,028 - logger_file -INFO - User click on account option
+2022-12-29 16:33:37,141 - logger_file -INFO - User click on Account Butten
+2022-12-29 16:34:10,415 - logger_file -INFO - USer click on update button
+2022-12-29 16:34:10,417 - logger_file -INFO - ‘Address Updated Successfully’
+2022-12-29 16:39:06,621 - logger_file -INFO - React App is equal to React App
+2022-12-29 16:39:06,896 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 16:39:07,228 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 16:39:07,317 - logger_file -INFO - user clicked on login button
+2022-12-29 16:39:07,552 - logger_file -INFO - user logged in into account
+2022-12-29 16:39:11,676 - logger_file -INFO - User click on account option
+2022-12-29 16:39:11,790 - logger_file -INFO - User click on Account Butten
+2022-12-29 16:39:45,430 - logger_file -INFO - USer click on update button
+2022-12-29 16:39:45,431 - logger_file -INFO - ‘Address Updated Successfully’
+2022-12-29 16:44:15,957 - logger_file -INFO - React App is equal to React App
+2022-12-29 16:44:16,225 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 16:44:16,541 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 16:44:16,644 - logger_file -INFO - user clicked on login button
+2022-12-29 16:44:16,867 - logger_file -INFO - user logged in into account
+2022-12-29 16:44:20,996 - logger_file -INFO - User click on account option
+2022-12-29 16:56:59,215 - logger_file -INFO - React App is equal to React App
+2022-12-29 16:56:59,446 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 16:56:59,729 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 16:56:59,820 - logger_file -INFO - user clicked on login button
+2022-12-29 16:57:00,038 - logger_file -INFO - user logged in into account
+2022-12-29 16:57:04,164 - logger_file -INFO - User click on account option
+2022-12-29 16:57:04,235 - logger_file -INFO - RemoveAccountButten
+2022-12-29 16:57:04,235 - logger_file -INFO - ‘Address Remove Successfully’
+2022-12-29 16:59:07,209 - logger_file -INFO - React App is equal to React App
+2022-12-29 16:59:07,487 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 16:59:07,775 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 16:59:07,873 - logger_file -INFO - user clicked on login button
+2022-12-29 16:59:08,147 - logger_file -INFO - user logged in into account
+2022-12-29 16:59:12,259 - logger_file -INFO - User click on account option
+2022-12-29 16:59:12,372 - logger_file -INFO - User click on address Butten
+2022-12-29 16:59:45,339 - logger_file -INFO - User fill out the information 
+2022-12-29 16:59:45,444 - logger_file -INFO - User fill out the address information
+2022-12-29 16:59:49,486 - logger_file -INFO - User add the address Successfully
+2022-12-29 17:02:02,171 - logger_file -INFO - React App is equal to React App
+2022-12-29 17:02:02,469 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 17:02:02,769 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 17:02:02,859 - logger_file -INFO - user clicked on login button
+2022-12-29 17:02:03,078 - logger_file -INFO - user logged in into account
+2022-12-29 17:02:07,191 - logger_file -INFO - User click on account option
+2022-12-29 17:02:07,310 - logger_file -INFO - RemoveAccountButten
+2022-12-29 17:02:07,311 - logger_file -INFO - ‘Address Remove Successfully’
+2022-12-29 17:05:23,718 - logger_file -INFO - React App is equal to React App
+2022-12-29 17:05:23,997 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 17:05:24,294 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 17:05:24,390 - logger_file -INFO - user clicked on login button
+2022-12-29 17:05:24,605 - logger_file -INFO - user logged in into account
+2022-12-29 17:05:28,717 - logger_file -INFO - User click on account option
+2022-12-29 17:05:28,796 - logger_file -INFO - RemoveAccountButten
+2022-12-29 17:05:28,797 - logger_file -INFO - ‘Address Remove Successfully’
+2022-12-29 17:14:15,463 - logger_file -INFO - React App is equal to React App
+2022-12-29 17:14:15,709 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 17:14:16,004 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 17:14:16,096 - logger_file -INFO - user clicked on login button
+2022-12-29 17:14:16,329 - logger_file -INFO - user logged in into account
+2022-12-29 17:14:20,344 - logger_file -INFO - React App is equal to React App
+2022-12-29 17:14:20,413 - logger_file -INFO - user clicked on All element
+2022-12-29 18:35:31,312 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:35:31,625 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 18:35:31,908 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 18:35:31,998 - logger_file -INFO - user clicked on login button
+2022-12-29 18:35:32,219 - logger_file -INFO - user logged in into account
+2022-12-29 18:35:36,230 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:35:39,071 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:35:39,440 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 18:35:39,897 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 18:35:40,033 - logger_file -INFO - user clicked on login button
+2022-12-29 18:35:40,260 - logger_file -INFO - user logged in into account
+2022-12-29 18:35:44,272 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:35:47,378 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:35:47,779 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 18:35:48,197 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 18:35:48,341 - logger_file -INFO - user clicked on login button
+2022-12-29 18:35:48,556 - logger_file -INFO - user logged in into account
+2022-12-29 18:35:52,574 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:35:55,852 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:35:56,129 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 18:35:56,533 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 18:35:56,637 - logger_file -INFO - user clicked on login button
+2022-12-29 18:35:56,869 - logger_file -INFO - user logged in into account
+2022-12-29 18:36:00,891 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:36:04,021 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:36:04,386 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 18:36:04,811 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 18:36:04,921 - logger_file -INFO - user clicked on login button
+2022-12-29 18:36:05,218 - logger_file -INFO - user logged in into account
+2022-12-29 18:36:09,235 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:38:05,819 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:38:06,008 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 18:38:06,313 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 18:38:06,408 - logger_file -INFO - user clicked on login button
+2022-12-29 18:38:06,690 - logger_file -INFO - user logged in into account
+2022-12-29 18:38:10,698 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:38:10,761 - logger_file -INFO - user clicked on All element
+2022-12-29 18:38:13,490 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:38:13,719 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 18:38:14,051 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 18:38:14,202 - logger_file -INFO - user clicked on login button
+2022-12-29 18:38:14,431 - logger_file -INFO - user logged in into account
+2022-12-29 18:38:18,440 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:38:18,582 - logger_file -INFO - user clicked on All element
+2022-12-29 18:38:22,859 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:38:23,168 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 18:38:23,604 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 18:38:23,729 - logger_file -INFO - user clicked on login button
+2022-12-29 18:38:23,948 - logger_file -INFO - user logged in into account
+2022-12-29 18:38:27,959 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:38:28,079 - logger_file -INFO - user clicked on All element
+2022-12-29 18:38:31,214 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:38:31,561 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 18:38:32,027 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 18:38:32,156 - logger_file -INFO - user clicked on login button
+2022-12-29 18:38:32,401 - logger_file -INFO - user logged in into account
+2022-12-29 18:38:36,421 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:38:36,542 - logger_file -INFO - user clicked on All element
+2022-12-29 18:38:39,700 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:38:40,104 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 18:38:40,547 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 18:38:40,676 - logger_file -INFO - user clicked on login button
+2022-12-29 18:38:40,902 - logger_file -INFO - user logged in into account
+2022-12-29 18:38:44,925 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:38:45,037 - logger_file -INFO - user clicked on All element
+2022-12-29 18:41:09,407 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:41:09,728 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 18:41:10,058 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 18:41:10,168 - logger_file -INFO - user clicked on login button
+2022-12-29 18:41:10,379 - logger_file -INFO - user logged in into account
+2022-12-29 18:41:14,397 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:41:14,471 - logger_file -INFO - user clicked on All element
+2022-12-29 18:41:17,358 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:41:17,661 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 18:41:18,111 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 18:41:18,250 - logger_file -INFO - user clicked on login button
+2022-12-29 18:41:18,459 - logger_file -INFO - user logged in into account
+2022-12-29 18:41:22,473 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:41:22,597 - logger_file -INFO - user clicked on All element
+2022-12-29 18:41:25,720 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:41:26,089 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 18:41:26,535 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 18:41:26,664 - logger_file -INFO - user clicked on login button
+2022-12-29 18:41:26,887 - logger_file -INFO - user logged in into account
+2022-12-29 18:41:30,908 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:41:31,028 - logger_file -INFO - user clicked on All element
+2022-12-29 18:41:34,309 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:41:34,545 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 18:41:34,979 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 18:41:35,129 - logger_file -INFO - user clicked on login button
+2022-12-29 18:41:35,357 - logger_file -INFO - user logged in into account
+2022-12-29 18:41:39,368 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:41:39,491 - logger_file -INFO - user clicked on All element
+2022-12-29 18:41:42,678 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:41:42,948 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 18:41:43,378 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 18:41:43,497 - logger_file -INFO - user clicked on login button
+2022-12-29 18:41:43,708 - logger_file -INFO - user logged in into account
+2022-12-29 18:41:47,718 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:41:47,841 - logger_file -INFO - user clicked on All element
+2022-12-29 18:44:01,307 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:44:01,609 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 18:44:01,928 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 18:44:02,023 - logger_file -INFO - user clicked on login button
+2022-12-29 18:44:02,247 - logger_file -INFO - user logged in into account
+2022-12-29 18:44:06,256 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:44:06,327 - logger_file -INFO - user clicked on All element
+2022-12-29 18:44:08,985 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:44:09,192 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 18:44:09,534 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 18:44:09,642 - logger_file -INFO - user clicked on login button
+2022-12-29 18:44:09,838 - logger_file -INFO - user logged in into account
+2022-12-29 18:44:13,858 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:44:13,983 - logger_file -INFO - user clicked on All element
+2022-12-29 18:44:17,507 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:44:17,842 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 18:44:18,318 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 18:44:18,469 - logger_file -INFO - user clicked on login button
+2022-12-29 18:44:18,703 - logger_file -INFO - user logged in into account
+2022-12-29 18:44:22,724 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:44:22,841 - logger_file -INFO - user clicked on All element
+2022-12-29 18:44:25,971 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:44:26,344 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 18:44:26,845 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 18:44:26,961 - logger_file -INFO - user clicked on login button
+2022-12-29 18:44:27,185 - logger_file -INFO - user logged in into account
+2022-12-29 18:44:31,207 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:44:31,323 - logger_file -INFO - user clicked on All element
+2022-12-29 18:44:50,974 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:44:51,289 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 18:44:51,692 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 18:44:51,831 - logger_file -INFO - user clicked on login button
+2022-12-29 18:44:52,054 - logger_file -INFO - user logged in into account
+2022-12-29 18:44:56,065 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:44:56,178 - logger_file -INFO - user clicked on All element
+2022-12-29 18:44:59,154 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:44:59,412 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 18:44:59,824 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 18:44:59,957 - logger_file -INFO - user clicked on login button
+2022-12-29 18:45:00,185 - logger_file -INFO - user logged in into account
+2022-12-29 18:45:04,194 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:45:04,296 - logger_file -INFO - user clicked on All element
+2022-12-29 18:45:07,356 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:45:07,688 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 18:45:08,128 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 18:45:08,248 - logger_file -INFO - user clicked on login button
+2022-12-29 18:45:08,624 - logger_file -INFO - user logged in into account
+2022-12-29 18:45:12,646 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:45:12,763 - logger_file -INFO - user clicked on All element
+2022-12-29 18:45:15,906 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:45:16,181 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 18:45:16,649 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 18:45:16,771 - logger_file -INFO - user clicked on login button
+2022-12-29 18:45:16,996 - logger_file -INFO - user logged in into account
+2022-12-29 18:45:21,018 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:45:21,130 - logger_file -INFO - user clicked on All element
+2022-12-29 18:45:24,269 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:45:24,642 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 18:45:25,103 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 18:45:25,227 - logger_file -INFO - user clicked on login button
+2022-12-29 18:45:25,426 - logger_file -INFO - user logged in into account
+2022-12-29 18:45:29,444 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:45:29,577 - logger_file -INFO - user clicked on All element
+2022-12-29 18:47:34,568 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:47:34,861 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 18:47:35,181 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 18:47:35,284 - logger_file -INFO - user clicked on login button
+2022-12-29 18:47:35,500 - logger_file -INFO - user logged in into account
+2022-12-29 18:47:39,512 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:47:39,594 - logger_file -INFO - user clicked on All element
+2022-12-29 18:47:42,301 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:47:42,495 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 18:47:42,833 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 18:47:42,946 - logger_file -INFO - user clicked on login button
+2022-12-29 18:47:43,159 - logger_file -INFO - user logged in into account
+2022-12-29 18:47:47,172 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:47:47,291 - logger_file -INFO - user clicked on All element
+2022-12-29 18:47:50,367 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:47:50,830 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 18:47:51,265 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 18:47:51,392 - logger_file -INFO - user clicked on login button
+2022-12-29 18:47:51,608 - logger_file -INFO - user logged in into account
+2022-12-29 18:47:55,626 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:47:55,742 - logger_file -INFO - user clicked on All element
+2022-12-29 18:47:58,937 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:47:59,184 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 18:47:59,641 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 18:47:59,782 - logger_file -INFO - user clicked on login button
+2022-12-29 18:48:00,014 - logger_file -INFO - user logged in into account
+2022-12-29 18:48:04,037 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:48:04,159 - logger_file -INFO - user clicked on All element
+2022-12-29 18:48:07,446 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:48:07,788 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 18:48:08,227 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 18:48:08,356 - logger_file -INFO - user clicked on login button
+2022-12-29 18:48:08,601 - logger_file -INFO - user logged in into account
+2022-12-29 18:48:12,623 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:48:12,744 - logger_file -INFO - user clicked on All element
+2022-12-29 18:50:15,614 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:50:15,877 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 18:50:16,205 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 18:50:16,310 - logger_file -INFO - user clicked on login button
+2022-12-29 18:50:16,535 - logger_file -INFO - user logged in into account
+2022-12-29 18:50:20,544 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:50:20,632 - logger_file -INFO - user clicked on All element
+2022-12-29 18:50:23,560 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:50:23,773 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 18:50:24,209 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 18:50:24,344 - logger_file -INFO - user clicked on login button
+2022-12-29 18:50:24,543 - logger_file -INFO - user logged in into account
+2022-12-29 18:50:28,563 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:50:28,685 - logger_file -INFO - user clicked on All element
+2022-12-29 18:50:31,985 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:50:32,289 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 18:50:32,742 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 18:50:32,871 - logger_file -INFO - user clicked on login button
+2022-12-29 18:50:33,088 - logger_file -INFO - user logged in into account
+2022-12-29 18:50:37,098 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:50:37,232 - logger_file -INFO - user clicked on All element
+2022-12-29 18:50:40,358 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:50:40,628 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 18:50:41,118 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 18:50:41,245 - logger_file -INFO - user clicked on login button
+2022-12-29 18:50:41,494 - logger_file -INFO - user logged in into account
+2022-12-29 18:50:45,509 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:50:45,629 - logger_file -INFO - user clicked on All element
+2022-12-29 18:50:48,805 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:50:49,068 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 18:50:49,531 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 18:50:49,650 - logger_file -INFO - user clicked on login button
+2022-12-29 18:50:49,849 - logger_file -INFO - user logged in into account
+2022-12-29 18:50:53,862 - logger_file -INFO - React App is equal to React App
+2022-12-29 18:50:53,984 - logger_file -INFO - user clicked on All element
+2022-12-29 20:55:11,463 - logger_file -INFO - React App is equal to React App
+2022-12-29 20:55:11,697 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 20:55:11,984 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 20:55:12,067 - logger_file -INFO - user clicked on login button
+2022-12-29 20:55:12,344 - logger_file -INFO - user logged in into account
+2022-12-29 20:55:16,365 - logger_file -INFO - React App is equal to React App
+2022-12-29 20:55:57,582 - logger_file -INFO - React App is equal to React App
+2022-12-29 20:55:57,831 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 20:55:58,127 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 20:55:58,217 - logger_file -INFO - user clicked on login button
+2022-12-29 20:55:58,424 - logger_file -INFO - user logged in into account
+2022-12-29 20:56:02,442 - logger_file -INFO - React App is equal to React App
+2022-12-29 22:31:26,191 - logger_file -INFO - React App is equal to React App
+2022-12-29 22:31:26,474 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 22:31:26,792 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 22:31:26,891 - logger_file -INFO - user clicked on login button
+2022-12-29 22:31:27,107 - logger_file -INFO - user logged in into account
+2022-12-29 22:31:31,122 - logger_file -INFO - React App is equal to React App
+2022-12-29 22:31:31,196 - logger_file -INFO - user clicked on All element
+2022-12-29 22:31:31,306 - logger_file -INFO - user should see all the element
+2022-12-29 22:55:50,978 - logger_file -INFO - React App is equal to React App
+2022-12-29 22:55:51,273 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 22:55:51,595 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 22:55:51,701 - logger_file -INFO - user clicked on login button
+2022-12-29 22:55:51,919 - logger_file -INFO - user logged in into account
+2022-12-29 22:55:56,002 - logger_file -INFO - Smart Home was selected from the drop down
+2022-12-29 22:56:00,111 - logger_file -INFO - User should write the item they need
+2022-12-29 22:57:27,953 - logger_file -INFO - React App is equal to React App
+2022-12-29 22:57:28,147 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 22:57:28,488 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 22:57:28,601 - logger_file -INFO - user clicked on login button
+2022-12-29 22:57:28,813 - logger_file -INFO - user logged in into account
+2022-12-29 22:57:32,892 - logger_file -INFO - Smart Home was selected from the drop down
+2022-12-29 22:57:36,996 - logger_file -INFO - User should write the item they need
+2022-12-29 22:57:41,073 - logger_file -INFO - user should see the item
+2022-12-29 22:57:45,170 - logger_file -INFO - User should click on the item
+2022-12-29 22:57:49,250 - logger_file -INFO - User should change quintidy to two
+2022-12-29 23:02:20,193 - logger_file -INFO - React App is equal to React App
+2022-12-29 23:02:20,413 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 23:02:20,755 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 23:02:20,861 - logger_file -INFO - user clicked on login button
+2022-12-29 23:02:21,071 - logger_file -INFO - user logged in into account
+2022-12-29 23:02:25,165 - logger_file -INFO - Smart Home was selected from the drop down
+2022-12-29 23:02:29,266 - logger_file -INFO - User should write the item they need
+2022-12-29 23:02:33,345 - logger_file -INFO - user should see the item
+2022-12-29 23:02:37,424 - logger_file -INFO - User should click on the item
+2022-12-29 23:02:41,496 - logger_file -INFO - User should change quintidy to two
+2022-12-29 23:02:45,576 - logger_file -INFO - user Should see that the it add to the card
+2022-12-29 23:02:49,614 - logger_file -INFO - User should it added
+2022-12-29 23:10:11,071 - logger_file -INFO - React App is equal to React App
+2022-12-29 23:10:11,365 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 23:10:11,720 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 23:10:11,845 - logger_file -INFO - user clicked on login button
+2022-12-29 23:10:12,263 - logger_file -INFO - user logged in into account
+2022-12-29 23:10:16,338 - logger_file -INFO - Smart Home was selected from the drop down
+2022-12-29 23:10:20,438 - logger_file -INFO - User should write the item they need
+2022-12-29 23:10:24,524 - logger_file -INFO - user should see the item
+2022-12-29 23:10:28,617 - logger_file -INFO - User should click on the item
+2022-12-29 23:10:32,680 - logger_file -INFO - User should change quintidy to two
+2022-12-29 23:10:36,771 - logger_file -INFO - user Should see that the it add to the card
+2022-12-29 23:10:40,803 - logger_file -INFO - User should it added
+2022-12-29 23:59:00,928 - logger_file -INFO - React App is equal to React App
+2022-12-29 23:59:01,180 - logger_file -INFO - user clicked on Sign In option
+2022-12-29 23:59:01,534 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-29 23:59:01,661 - logger_file -INFO - user clicked on login button
+2022-12-29 23:59:01,893 - logger_file -INFO - user logged in into account
+2022-12-29 23:59:06,020 - logger_file -INFO - Smart Home was selected from the drop down
+2022-12-29 23:59:10,192 - logger_file -INFO - User should write the item they need
+2022-12-29 23:59:14,325 - logger_file -INFO - user should see the item
+2022-12-29 23:59:18,459 - logger_file -INFO - User should click on the item
+2022-12-29 23:59:22,563 - logger_file -INFO - User should change quintidy to two
+2022-12-29 23:59:26,701 - logger_file -INFO - user Should see that the it add to the card
+2022-12-29 23:59:30,759 - logger_file -INFO - User should it added
+2022-12-29 23:59:34,943 - logger_file -INFO - User should be able to click on cart option
+2022-12-29 23:59:39,122 - logger_file -INFO - User click on Proceed to Checkout button
+2022-12-29 23:59:47,331 - logger_file -INFO - User should be able to click on add a new address button
+2022-12-29 23:59:48,954 - logger_file -INFO - User should see all the information they fill out
+2022-12-29 23:59:53,113 - logger_file -INFO - User fill out the address information
+2022-12-30 00:00:01,297 - logger_file -INFO - User should be able to click on Add Your payment Buttn
+2022-12-30 00:00:06,111 - logger_file -INFO - User add card information
+2022-12-30 00:00:10,235 - logger_file -INFO - User click on submit button
+2022-12-30 00:00:10,374 - logger_file -INFO - User click on Add Your Address Buttn
+2022-12-30 00:21:05,314 - logger_file -INFO - React App is equal to React App
+2022-12-30 00:21:05,542 - logger_file -INFO - user clicked on Sign In option
+2022-12-30 00:21:05,785 - logger_file -INFO - user entered email EmailValue and password PasswordValue
+2022-12-30 00:26:54,287 - logger_file -INFO - React App is equal to React App
+2022-12-30 00:26:54,505 - logger_file -INFO - user clicked on Sign In option
+2022-12-30 00:26:54,747 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-30 00:26:54,831 - logger_file -INFO - user clicked on login button
+2022-12-30 00:26:55,039 - logger_file -INFO - user logged in into account
+2022-12-30 00:50:21,708 - logger_file -INFO - React App is equal to React App
+2022-12-30 00:50:21,967 - logger_file -INFO - user clicked on Sign In option
+2022-12-30 00:50:22,356 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-30 00:50:22,478 - logger_file -INFO - user clicked on login button
+2022-12-30 00:50:22,707 - logger_file -INFO - user logged in into account
+2022-12-30 00:54:53,360 - logger_file -INFO - React App is equal to React App
+2022-12-30 00:54:53,629 - logger_file -INFO - user clicked on Sign In option
+2022-12-30 00:54:53,974 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-30 00:54:54,082 - logger_file -INFO - user clicked on login button
+2022-12-30 00:54:54,302 - logger_file -INFO - user logged in into account
+2022-12-30 00:54:58,454 - logger_file -INFO - Electronics was selected from the drop down
+2022-12-30 00:55:02,622 - logger_file -INFO - User should write the item they need
+2022-12-30 00:55:06,768 - logger_file -INFO - user should see the item
+2022-12-30 00:55:10,903 - logger_file -INFO - User should click on the item
+2022-12-30 00:56:51,035 - logger_file -INFO - React App is equal to React App
+2022-12-30 00:56:51,280 - logger_file -INFO - user clicked on Sign In option
+2022-12-30 00:56:51,630 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-30 00:56:51,750 - logger_file -INFO - user clicked on login button
+2022-12-30 00:56:51,959 - logger_file -INFO - user logged in into account
+2022-12-30 00:56:56,113 - logger_file -INFO - Electronics was selected from the drop down
+2022-12-30 00:57:00,295 - logger_file -INFO - User should write the item they need
+2022-12-30 00:57:04,422 - logger_file -INFO - user should see the item
+2022-12-30 00:57:08,562 - logger_file -INFO - User should click on the item
+2022-12-30 00:57:12,726 - logger_file -INFO - user should select 5
+2022-12-30 00:57:16,860 - logger_file -INFO - user Should see that the it add to the card
+2022-12-30 00:57:20,914 - logger_file -INFO - User should see the card icon is 5
+2022-12-30 00:57:25,112 - logger_file -INFO - User should be able to click on cart option
+2022-12-30 00:57:29,296 - logger_file -INFO - User click on Proceed to Checkout button
+2022-12-30 00:57:33,437 - logger_file -INFO - User click on Add Your Address Buttn
+2022-12-30 00:57:37,499 - logger_file -INFO - User should see the conformation
+2022-12-30 01:04:16,623 - logger_file -INFO - React App is equal to React App
+2022-12-30 01:04:16,879 - logger_file -INFO - user clicked on Sign In option
+2022-12-30 01:04:17,164 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-30 01:04:17,252 - logger_file -INFO - user clicked on login button
+2022-12-30 01:04:17,461 - logger_file -INFO - user logged in into account
+2022-12-30 02:09:11,270 - logger_file -INFO - React App is equal to React App
+2022-12-30 02:09:11,552 - logger_file -INFO - user clicked on Sign In option
+2022-12-30 02:09:11,856 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-30 02:09:11,958 - logger_file -INFO - user clicked on login button
+2022-12-30 02:09:12,145 - logger_file -INFO - user logged in into account
+2022-12-30 02:09:16,267 - logger_file -INFO - User click on Add Your order Buttn
+2022-12-30 02:09:20,277 - logger_file -INFO - User click on cancel your order
+2022-12-30 02:09:24,386 - logger_file -INFO - User click on cancel your order
+2022-12-30 02:09:28,476 - logger_file -INFO - User click on resone cancel order
+2022-12-30 02:09:28,564 - logger_file -INFO - User click on cancel your order
+2022-12-30 02:13:08,300 - logger_file -INFO - React App is equal to React App
+2022-12-30 02:13:08,579 - logger_file -INFO - user clicked on Sign In option
+2022-12-30 02:13:08,895 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-30 02:13:08,995 - logger_file -INFO - user clicked on login button
+2022-12-30 02:13:09,413 - logger_file -INFO - user logged in into account
+2022-12-30 02:13:13,514 - logger_file -INFO - User click on Add Your order Buttn
+2022-12-30 02:13:17,526 - logger_file -INFO - User click on cancel your order
+2022-12-30 02:13:21,622 - logger_file -INFO - User click on cancel your order
+2022-12-30 02:13:25,703 - logger_file -INFO - User click on resone cancel order
+2022-12-30 02:13:25,778 - logger_file -INFO - User click on cancel your order
+2022-12-30 02:13:29,817 - logger_file -INFO - User click on cancel your order 
+2022-12-30 02:18:35,174 - logger_file -INFO - React App is equal to React App
+2022-12-30 02:18:35,344 - logger_file -INFO - user clicked on Sign In option
+2022-12-30 02:18:35,517 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-30 02:18:35,582 - logger_file -INFO - user clicked on login button
+2022-12-30 02:18:35,797 - logger_file -INFO - user logged in into account
+2022-12-30 02:18:39,909 - logger_file -INFO - User click on Add Your order Buttn
+2022-12-30 02:18:43,924 - logger_file -INFO - User click on cancel your order
+2022-12-30 02:44:32,399 - logger_file -INFO - React App is equal to React App
+2022-12-30 02:44:32,670 - logger_file -INFO - user clicked on Sign In option
+2022-12-30 02:44:32,974 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-30 02:44:33,076 - logger_file -INFO - user clicked on login button
+2022-12-30 02:44:33,298 - logger_file -INFO - user logged in into account
+2022-12-30 02:44:37,411 - logger_file -INFO - User click on Add Your order Buttn
+2022-12-30 02:44:41,426 - logger_file -INFO - User click on cancel your order
+2022-12-30 02:47:18,380 - logger_file -INFO - React App is equal to React App
+2022-12-30 02:47:18,586 - logger_file -INFO - user clicked on Sign In option
+2022-12-30 02:47:18,924 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-30 02:47:19,024 - logger_file -INFO - user clicked on login button
+2022-12-30 02:47:19,239 - logger_file -INFO - user logged in into account
+2022-12-30 02:47:23,351 - logger_file -INFO - User click on Add Your order Buttn
+2022-12-30 02:47:27,356 - logger_file -INFO - User click on cancel your order
+2022-12-30 02:47:31,466 - logger_file -INFO - User click on return butten
+2022-12-30 02:47:31,528 - logger_file -INFO - User click on resone cancel order
+2022-12-30 02:47:31,612 - logger_file -INFO - User select the drop off service FedEx
+2022-12-30 02:47:31,714 - logger_file -INFO - User click on return butten
+2022-12-30 02:50:25,829 - logger_file -INFO - React App is equal to React App
+2022-12-30 02:50:25,995 - logger_file -INFO - user clicked on Sign In option
+2022-12-30 02:50:26,315 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-30 02:50:26,411 - logger_file -INFO - user clicked on login button
+2022-12-30 02:50:26,628 - logger_file -INFO - user logged in into account
+2022-12-30 02:50:30,726 - logger_file -INFO - User click on Add Your order Buttn
+2022-12-30 02:50:34,740 - logger_file -INFO - User click on cancel your order
+2022-12-30 02:50:38,847 - logger_file -INFO - User click on return butten
+2022-12-30 02:50:42,929 - logger_file -INFO - User click on resone cancel order
+2022-12-30 02:50:47,038 - logger_file -INFO - User select the drop off service FedEx
+2022-12-30 02:50:51,158 - logger_file -INFO - User click on return butten
+2022-12-30 02:52:41,179 - logger_file -INFO - React App is equal to React App
+2022-12-30 02:52:41,420 - logger_file -INFO - user clicked on Sign In option
+2022-12-30 02:52:41,712 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-30 02:52:41,803 - logger_file -INFO - user clicked on login button
+2022-12-30 02:52:42,022 - logger_file -INFO - user logged in into account
+2022-12-30 02:52:46,140 - logger_file -INFO - User click on Add Your order Buttn
+2022-12-30 02:52:50,142 - logger_file -INFO - User click on cancel your order
+2022-12-30 02:52:54,227 - logger_file -INFO - User click on return butten
+2022-12-30 02:52:58,303 - logger_file -INFO - User click on resone cancel order
+2022-12-30 02:53:02,392 - logger_file -INFO - User select the drop off service FedEx
+2022-12-30 02:53:06,483 - logger_file -INFO - User click on return butten
+2022-12-30 02:57:54,123 - logger_file -INFO - React App is equal to React App
+2022-12-30 02:57:54,384 - logger_file -INFO - user clicked on Sign In option
+2022-12-30 02:57:54,702 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-30 02:57:54,805 - logger_file -INFO - user clicked on login button
+2022-12-30 02:57:55,462 - logger_file -INFO - user logged in into account
+2022-12-30 02:57:59,568 - logger_file -INFO - User click on Add Your order Buttn
+2022-12-30 02:58:03,572 - logger_file -INFO - User click on cancel your order
+2022-12-30 02:58:07,668 - logger_file -INFO - User click on return butten
+2022-12-30 02:58:11,743 - logger_file -INFO - User click on resone cancel order
+2022-12-30 02:58:15,817 - logger_file -INFO - User select the drop off service FedEx
+2022-12-30 02:58:19,899 - logger_file -INFO - User click on return butten
+2022-12-30 03:05:03,841 - logger_file -INFO - React App is equal to React App
+2022-12-30 03:05:04,120 - logger_file -INFO - user clicked on Sign In option
+2022-12-30 03:05:04,410 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-30 03:05:04,505 - logger_file -INFO - user clicked on login button
+2022-12-30 03:05:04,728 - logger_file -INFO - user logged in into account
+2022-12-30 03:05:08,845 - logger_file -INFO - User click on Add Your order Buttn
+2022-12-30 03:05:12,859 - logger_file -INFO - User click on cancel your order
+2022-12-30 03:20:58,513 - logger_file -INFO - React App is equal to React App
+2022-12-30 03:20:58,819 - logger_file -INFO - user clicked on Sign In option
+2022-12-30 03:20:59,136 - logger_file -INFO - user entered email Zabijab@tekschool.us and password Kabul2346!
+2022-12-30 03:20:59,233 - logger_file -INFO - user clicked on login button
+2022-12-30 03:20:59,509 - logger_file -INFO - user logged in into account
+2022-12-30 03:21:03,626 - logger_file -INFO - User click on Add Your order Buttn
+2022-12-30 03:21:07,635 - logger_file -INFO - User click on cancel your order
+2022-12-30 03:21:11,732 - logger_file -INFO - User click on review butten
+2022-12-30 03:21:15,910 - logger_file -INFO - User submit a review message
+2022-12-30 03:21:20,006 - logger_file -INFO - User click on review submit butten
+2022-12-30 03:21:24,041 - logger_file -INFO - Review message should be displayed ‘Return was successful’
